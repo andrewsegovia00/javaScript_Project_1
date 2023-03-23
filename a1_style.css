@@ -1,0 +1,86 @@
+a:link {
+    font-family: Arial;
+    color: red;
+    margin: 15px 0px 20px 40px;
+    display: inline-block;
+    text-align: left;
+    font-size: 15px;
+    padding: 4px 5px 4px 5px;
+}
+
+.btnBackground {
+    background-color: yellow;
+    border-color: none;
+    color: black !important;
+}
+
+a {
+    font-weight: bold;
+}
+
+.header {
+    color: black;
+    font-family: arial;
+    text-align: left;
+    padding: 10px 30px 20px 20px;
+    font-size: 14px;
+    text-decoration: underline overline;
+    letter-spacing: 5px;
+    font-style: italic;
+}
+
+.windowobject {
+    font-weight: bold;
+    font-size: 20px;
+    margin-top: 50px;
+    margin-bottom: 40px;
+}
+
+.outerBox {
+    margin-top: -10px;
+    width: 55w;
+    height: 99vh;
+    border: 5px;
+    border-color: black;
+    border: 3px solid black;
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    grid-gap: 20px;
+}
+
+
+.outerOuterBox {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.hyperlinks {
+    display: grid;
+    justify-content: left;
+    align-items: left;
+    height: fit-content;
+    display: inline-block
+}
+
+.window {
+    display: inline-block;
+    vertical-align: top;
+    font-family: arial;
+    text-align: center;
+}
+
+.clickMeBtn {
+    width: 70px;
+    height: 20px;
+    margin-top: 15px;
+
+}
+
+.inputText {
+    width: 180px;
+    margin-bottom: 15px;
+    border: solid;
+    border-width: 2px;
+    border-color: rgb(151, 151, 151);
+}
