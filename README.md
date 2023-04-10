@@ -1,1 +1,3 @@
-# javaScript_Project_1
+# School Project using jQuery, Javascript, HTMl, and CSS
+
+javaScript_Project_1
